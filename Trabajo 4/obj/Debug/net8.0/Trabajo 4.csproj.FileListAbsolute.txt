@@ -1,0 +1,14 @@
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\bin\Debug\net8.0\Trabajo 4.exe
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\bin\Debug\net8.0\Trabajo 4.deps.json
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\bin\Debug\net8.0\Trabajo 4.runtimeconfig.json
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\bin\Debug\net8.0\Trabajo 4.dll
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\bin\Debug\net8.0\Trabajo 4.pdb
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.AssemblyInfoInputs.cache
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.AssemblyInfo.cs
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.csproj.CoreCompileInputs.cache
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.dll
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\refint\Trabajo 4.dll
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.pdb
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\Trabajo 4.genruntimeconfig.cache
+D:\Documentos\.la Uuuuu\Semestre 3\Programacion\Actividad 4\Trabajo 4\trbajo\Trabajo 4\Trabajo 4\obj\Debug\net8.0\ref\Trabajo 4.dll
